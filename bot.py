@@ -7,7 +7,7 @@ from languages import LANGUAGES
 import os
 lang1,maintext=range(2)
 
-bot_token = os.environ.get("bot_token","")
+bot_token = "5402899694:AAGZvhzcStzqTJBl3AfzGoys79oMlouMMvk"
 
 # Enable logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
